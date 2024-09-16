@@ -5,6 +5,6 @@
 | Nombre           | Usuario de Telegram | Alias   |
 | ---------------- | ------------------- | ------- |
 | Ricardo Torres   | @RicardoT6          | Epsilon |
-| Carlos Belisario | Coje inces          | Echo    |
+| Carlos Belisario | Coje inces sadico   | Echo    |
 | Juan Montilva    | @juanmontilva       |         |
 | Luis Muñoz       | @Soyluismunoz       |         |
